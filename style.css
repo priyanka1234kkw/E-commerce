@@ -1,0 +1,28 @@
+body{
+    font-family: Arial;
+    background:#f4f4f4;
+    text-align:center;
+}
+
+nav{
+    margin:20px;
+}
+
+a{
+    text-decoration:none;
+    margin:15px;
+    color:blue;
+}
+
+.card{
+    width:300px;
+    margin:auto;
+    padding:20px;
+    background:white;
+    border-radius:10px;
+    box-shadow:0 0 10px gray;
+}
+
+button{
+    padding:10px 20px;
+}
